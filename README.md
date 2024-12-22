@@ -14,7 +14,7 @@ E - Open Shop Screen
 R - Open Spell Info Screen
 
 ## 🟢Tips and Tricks🟢
-Every time that an enemy of a certain color is defeated, you unlock a new upgrade in the shop and a new magic spell to use. Different color enemies have different stats. Purchasing from the shop upgrades your main stats, which in turn makes your spells more powerful! Also, each spell has different quirks and uses! Check them out under the spell info tab.
+Every time that an enemy of a certain color is defeated, you unlock a new upgrade in the shop and a new magic spell to use. Different color enemies have different stats. Purchasing from the shop upgrades your main stats, which in turn makes your spells more powerful! Also, each spell has different quirks and uses! Check them out under the spell info tab. To win, survive past round 26 and color the world of magic!
 
 ## 🔷Credits🔷:
 Coding - PyroProtato
