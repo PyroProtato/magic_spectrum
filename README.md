@@ -1,11 +1,9 @@
-# Magic Spectrum
-
-## 🪄WELCOME TO MAGIC SPECTRUM🪄
-# A game by PyroProtato for the Hack Club Game Jam using Python and PyGame
+# 🪄WELCOME TO MAGIC SPECTRUM🪄
+## A game by PyroProtato for the Hack Club Game Jam using Python and PyGame
 
 Magic Spectrum is a game where you play as a wizard that battles enemies to restore color to the world! Different color enemies will spawn with different stats, and after defeating a certain amount of them by using magic spells, their color will be restored to the map. 
 
-#DEMO: https://pyroprotato.github.io/magic_spectrum/
+DEMO: https://pyroprotato.github.io/magic_spectrum/
 
 ## 🎮Controls🎮
 WASD - Move around the map
