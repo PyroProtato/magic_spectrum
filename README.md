@@ -12,6 +12,7 @@ Scroll/Number Keys - Switching Spells
 ESC - Back to Home Screen
 E - Open Shop Screen
 R - Open Spell Info Screen
+Shift - Dash (when unlocked)
 
 ## 🟢Tips and Tricks🟢
 Every time that an enemy of a certain color is defeated, you unlock a new upgrade in the shop and a new magic spell to use. Different color enemies have different stats. Purchasing from the shop upgrades your main stats, which in turn makes your spells more powerful! Also, each spell has different quirks and uses! Check them out under the spell info tab. To win, survive past round 26 and color the world of magic!
@@ -23,3 +24,11 @@ Sounds - pixabay.com
 Music - pixabay.com
 Inspiration - Calvin K.
 Library - PyGame
+
+## 🔴Latest Version Changes🔴:
+ - Added mana bar with different mana costs for different spells as well as a shop upgrade
+ - Slight POV change with cursor movement
+ - Added death animations for slimes
+ - (WIP) Boss Slimes
+ - Various bug fixes including shop and info screens being activatd at the same time
+ - Various changes to increase efficiency
