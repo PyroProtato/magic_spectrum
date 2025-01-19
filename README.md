@@ -3,7 +3,9 @@
 
 Magic Spectrum is a game where you play as a wizard that battles enemies to restore color to the world! Different color enemies will spawn with different stats, and after defeating a certain amount of them by using magic spells, their color will be restored to the map. 
 
-DEMO: https://pyroprotato.github.io/magic_spectrum/
+This game was created for the Hack Club Game Jam hosted by Evan Gan. I built it using python and pygame, as well as pygbag to compress it into an HTML file to be played in the browser. This project consists of over 3500 lines of code and cumulatively took me around 55 hours (and counting!) so I would appreciate any support. I'm tired lol. A lot of youtube videos were watched while I worked on this -_-. (UPDATE): I actually did do well in the Hack Club Game Jam (yay 200 doubloons!) and I was also able to repurpose it for my school's game jam, where I did well in as well! Thank you all for helping so much!
+
+DEMO: https://pyroprotato.itch.io/magic-spectrum OR https://pyroprotato.github.io/magic_spectrum/
 
 ## 🎮Controls🎮
 WASD - Move around the map
